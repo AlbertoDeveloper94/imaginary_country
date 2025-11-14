@@ -1,2 +1,5 @@
 # 👨🏻‍💻Pandorium, la ciudad zombie👨🏻‍💻 
-![Logo de HTML5](html5Logo.png) ![Logo de HTML5](css3Logo.png)
+<div style="display:flex;">
+    <img src="html5Logo.png" alt="Logo de HTML5">
+    <img src="css3Logo.png" alt="Logo de CSS3">
+</div>
