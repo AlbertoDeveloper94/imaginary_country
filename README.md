@@ -8,7 +8,7 @@
 * 
 * 
 ## 🛠️Tecnologias utilizadas🛠️
-* HTML5 <img src="css3Logo.png" alt="Logo de CSS3" width="50px" align="vertical">
+* HTML5 <img src="css3Logo.png" alt="Logo de CSS3" width="50px" style="display:flex;justify-content:center;align-items:center">
 * CSS3
 * Git
 ## ✒️Autor✒️
