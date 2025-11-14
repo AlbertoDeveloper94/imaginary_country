@@ -1,5 +1,15 @@
 # 👨🏻‍💻Pandorium, la ciudad zombie👨🏻‍💻
-<div align="center">
-    <img src="html5Logo.png" alt="Logo de HTML5">
-    <img src="css3Logo.png" alt="Logo de CSS3">
-<div>
+<img src="html5Logo.png" alt="Logo de HTML5">
+<img src="css3Logo.png" alt="Logo de CSS3">
+
+## 🌟Características🌟ç
+* 
+* 
+* 
+* 
+## 🛠️Tecnologias utilizadas🛠️
+* HTML5 <img src="css3Logo.png" alt="Logo de CSS3" width="50px">
+* CSS3
+* Git
+## ✒️Autor✒️
+**Alberto Garcia Poncet**
